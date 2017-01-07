@@ -8,7 +8,7 @@
     "test": "cd ..; npm run st -- monitoring/system-test/*.test.js"
   },
   "dependencies": {
-    "async":"2.1.2",
-    "googleapis": "15.0.0"
+    "async":"2.1.4",
+    "googleapis": "16.0.0"
   }
 }
